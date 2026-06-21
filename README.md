@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Ahmed Faheem</h1>
 <h3 align="center">Full-Stack Developer | Computer Engineer </h3>
 
