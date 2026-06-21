@@ -78,8 +78,11 @@ I specialize in developing modern web applications using **Laravel, Vue.js, Reac
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
+<img
+  src="https://cdn.simpleicons.org/github/white"
+  height="40"
+  alt="github logo"
+/>  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
@@ -91,15 +94,6 @@ I specialize in developing modern web applications using **Laravel, Vue.js, Reac
 
 ---
 
-## 🚀 Featured Projects
-
-- 🛒 **Multi Vendor Store** – Laravel, Vue.js, MySQL, Sanctum, API Resources
-- 🏨 **Hotel Management System** – Laravel, Vue.js, Inertia.js, Tailwind CSS, Stripe
-- 💰 **MonoSphere - Personal Finance Tracker** – Team Project
-- 🧠 **Animal Expert Quiz** – JavaScript, Bootstrap, MVC
-- 📅 **Jamaly Laser Appointment Management System** – WordPress, WooCommerce, Amelia, WhatsApp Integration
-
----
 
 ## 📈 GitHub Stats
 
@@ -115,7 +109,7 @@ I specialize in developing modern web applications using **Laravel, Vue.js, Reac
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Contact With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/a7medfaheem" target="_blank">
@@ -126,5 +120,5 @@ I specialize in developing modern web applications using **Laravel, Vue.js, Reac
   </a>
 </p>
 
-![Snake Animation](https://github.com/ahmedfaheem/ahmedfaheem/blob/output/snake-dark.svg)
+![Snake Animation](https://github.com/ahmedfaheem/ahmedfaheem/blob/main/snake-dark.svg)
 ```
